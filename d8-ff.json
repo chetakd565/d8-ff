@@ -33,7 +33,7 @@
             "iron_source_key": "18230fb2d",
 
             "diamond": "https://raw.githubusercontent.com/nezdedio/uogg/main/di.gif",
-            "cover": "https://d2z8nyy70yf33i.cloudfront.net/wp-content/uploads/gif-9-4.gif",
+            "cover": "https://raw.githubusercontent.com/chetakd565/d8-ff/main/cov.gif",
             
             "activate_update_app": "false",
             "update_link": "https://play.google.com/store/apps/details?id=com.hyperbeard.catopia"
@@ -160,12 +160,12 @@
         },{
             "active" : "true",
             "name" : "spinner",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/2.png",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/d8-ff/main/2.png",
             "bg" : "#A3E635"
         },{
             "active" : "true",
             "name" : "scratch",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/3.png",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/d8-ff/main/3.png",
             "bg" : "#38BDF8"
         },{
             "active" : "false",
@@ -190,7 +190,7 @@
         },{
             "active" : "true",
             "name" : "games",
-            "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/8.png",
+            "ico" : "https://raw.githubusercontent.com/chetakd565/d8-ff/main/8.png",
             "bg" : "#673AB7"
         }
     ],
