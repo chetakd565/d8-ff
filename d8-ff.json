@@ -7,8 +7,8 @@
             "vpn_user" : "freeopenvpn",
             "vpn_password" : "204703142",
 
-            "int_interval" : 1,
-            "activate_ads" : "false",
+            "int_interval" : 3,
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "ead4d9fc-c63d-4cbd-b62e-19017a7a4573",
@@ -30,7 +30,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "18230fb2d",
+            "iron_source_key": "1852533d5",
 
             "diamond": "https://raw.githubusercontent.com/nezdedio/uogg/main/di.gif",
             "cover": "https://raw.githubusercontent.com/chetakd565/d8-ff/main/cov.gif",
@@ -158,7 +158,7 @@
             "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/1.png",
             "bg" : "#FBBF24"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
             "ico" : "https://raw.githubusercontent.com/chetakd565/d8-ff/main/2.png",
             "bg" : "#A3E635"
@@ -168,12 +168,12 @@
             "ico" : "https://raw.githubusercontent.com/chetakd565/d8-ff/main/3.png",
             "bg" : "#38BDF8"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "questions",
             "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/4.png",
             "bg" : "#2DD4BF"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/5.png",
             "bg" : "#4ADE80"
@@ -188,7 +188,7 @@
             "ico" : "https://raw.githubusercontent.com/nezdedio/uogg/main/7.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://raw.githubusercontent.com/chetakd565/d8-ff/main/8.png",
             "bg" : "#673AB7"
